@@ -1,1 +1,1 @@
-###This is a very stripped down example of useing requireJs and grunt with jasmine tests and istanbul coverage.
+This is a very stripped down example of useing RequireJs and Grunt with Jasmine tests and Istanbul coverage.
